@@ -11,7 +11,7 @@ _ext
 build/
 dist/
 wheels/
-
+*.jpg
 # pytorch/python/numpy formats
 *.pth
 *.pkl
